@@ -18,7 +18,7 @@ Funcionalidade: Autenticação
 
       Exemplos:
         | tipo_erro             | mensagem_erro                                          |
-        | Campo email em branco | O email ou a senha estão errados. Por favor verifique. |
         | Campo email incorreto | O email ou a senha estão errados. Por favor verifique. |
+        | Campo email em branco | O email ou a senha estão errados. Por favor verifique. |
         | Campo senha incorreta | O email ou a senha estão errados. Por favor verifique. |
         | Campo senha em branco | O email ou a senha estão errados. Por favor verifique. |
